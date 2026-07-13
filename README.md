@@ -49,11 +49,7 @@ Zest for Engineering, Robotics, Autonomy, Machine Learning.
 ### Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img src=My heart is in the work -Andrew Carnegie alt="Dev quote" />
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/blar-tw">blar-tw</a></i></p>
-
 
 
