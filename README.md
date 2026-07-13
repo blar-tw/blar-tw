@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/blar-tw">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=474&text=HI!%20I'm%20Blar" alt="I&#39;m Blar" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=474&text=I'm%20Blar" alt="I&#39;m Blar" />
   </a>
 </p>
 
@@ -20,6 +20,10 @@ Zest for Engineering, Robotics, Autonomy, Machine Learning.
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PX4-Autopilot-0088cc?logo=drone&logoColor=white" alt="PX4" />
+  <img src="https://img.shields.io/badge/ROS_2-Humble-22314E?logo=ros&logoColor=white" alt="ROS2" />
+  <img src="https://img.shields.io/badge/Gazebo-Garden-f58113" alt="Gazebo" />
+  <img src="https://img.shields.io/badge/CasADi-IPOPT-4caf50" alt="CasADi" />
 </p>
 
 ### Connect With Me
@@ -52,11 +56,4 @@ Zest for Engineering, Robotics, Autonomy, Machine Learning.
 <p align="center"><i>⭐️ From <a href="https://github.com/blar-tw">blar-tw</a></i></p>
 
 
-
-I value significance.
-![PX4](https://img.shields.io/badge/PX4-Autopilot-0088cc?logo=drone&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-Humble-22314E?logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-Garden-f58113)
-![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
-![CasADi](https://img.shields.io/badge/CasADi-IPOPT-4caf50)
 
