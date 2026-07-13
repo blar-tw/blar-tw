@@ -1,9 +1,6 @@
 <p align="center">
-  <a href="https://github.com/blar-tw">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=474&text=I'm%20Blar" alt="I&#39;m Blar" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=80&duration=4000&pause=999999&color=FFD43B&center=true&vCenter=true&width=1000&height=100&lines=I'm+Blar" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=I%20value%20significance." alt="Typing headlines" />
 </p>
@@ -20,10 +17,9 @@ Zest for Engineering, Robotics, Autonomy, Machine Learning.
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/PX4-Autopilot-0088cc?logo=drone&logoColor=white" alt="PX4" />
-  <img src="https://img.shields.io/badge/ROS_2-Humble-22314E?logo=ros&logoColor=white" alt="ROS2" />
-  <img src="https://img.shields.io/badge/Gazebo-Garden-f58113" alt="Gazebo" />
-  <img src="https://img.shields.io/badge/CasADi-IPOPT-4caf50" alt="CasADi" />
+  <img src="https://img.shields.io/badge/PX4-005571?style=for-the-badge&logo=px4&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white"/>
 </p>
 
 ### Connect With Me
@@ -48,8 +44,12 @@ Zest for Engineering, Robotics, Autonomy, Machine Learning.
 
 ### Dev Quote
 
-<p align="center">
-  <img src=My heart is in the work -Andrew Carnegie alt="Dev quote" />
+<h2 align="center">❝</h2>
+
+<h2 align="center">
+My heart is in the work.
+</h2>
+
+<p align="right">
+— Andrew Carnegie
 </p>
-
-
