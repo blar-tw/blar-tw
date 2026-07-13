@@ -42,14 +42,15 @@ Zest for Engineering, Robotics, Autonomy, Machine Learning.
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=blar-tw&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### Dev Quote
 
-<h2 align="center">❝</h2>
+<br>
 
-<h2 align="center">
-My heart is in the work.
-</h2>
+<h1 align="center">
+  <i>❝ My heart is in the work. ❞</i>
+
 
 <p align="right">
-— Andrew Carnegie
+  <b>Andrew Carnegie     </b>
 </p>
+</h1>
+<br>
